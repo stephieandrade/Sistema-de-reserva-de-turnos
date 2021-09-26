@@ -12,7 +12,7 @@
 
 #### **Requerimientos técnicos**
 #### **La aplicación debe ser desarrollada en capas:**
-1. ❌Capa de presentación (MVC): Son las pantallas web que tendremos que desarrollar utilizando HTML+JavaScript para la Vista, React o Thymeleaf. **Aclaración! Utilicé React**
+1. ✅Capa de presentación (MVC): Son las pantallas web que tendremos que desarrollar utilizando HTML+JavaScript para la Vista, React o Thymeleaf. **Aclaración! Utilicé React**
 2. ✅Capa de negocio: Son las clases Java de nuestro negocio modelado a través del paradigma orientado a objetos.
 3. ✅Capa de acceso a datos (DAO/Repository): Son las clases que se encargaran de acceder a la base de datos.
 4. ✅Capa de Datos (base de datos): Es la base de datos de nuestro sistema modelado a través de un modelo entidad-relación. **Aclaración! Utilicé MYSQL**. 
